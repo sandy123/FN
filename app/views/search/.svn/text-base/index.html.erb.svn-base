@@ -1,0 +1,14 @@
+<html><head><title></title></head>
+<body><h3>Let's Pick Your Emergency Contact Number</h3>
+<table cellspacing="0" cellpadding="0" width="30%">
+<%= form_tag("/search/search_numbers", :method => "post") do %>
+<tr><td style="width:100px;"><label>Area Code: </label></td><td><%= text_field_tag :area_code, @area_code, {:size => 7} %></td></tr>
+<tr><td style="height:10px;"></td></tr>
+<tr><td>Near number: </label></td><td><%= text_field_tag :near_number, @near_number %>&nbsp; <br>(e.g. +4156562345)</td></tr>
+<tr><td style="height:10px;"></td></tr>
+<tr><td>Optional digits: </label></td><td><%= text_field_tag :contains, @contains %></td></tr>
+<tr><td style="height:20px;"></td></tr>
+<tr><td colspan="2" align="center"><%= submit_tag "Search",:name => nil %></td></tr>
+<% end %>
+</table>
+</body></html>

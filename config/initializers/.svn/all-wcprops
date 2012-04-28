@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/tama/!svn/ver/3/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tama/!svn/ver/3/config/initializers/inflections.rb
+END
+devise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tama/!svn/ver/3/config/initializers/devise.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tama/!svn/ver/3/config/initializers/session_store.rb
+END
+secret_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tama/!svn/ver/3/config/initializers/secret_token.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tama/!svn/ver/3/config/initializers/backtrace_silencers.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tama/!svn/ver/3/config/initializers/mime_types.rb
+END
+wrap_parameters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tama/!svn/ver/3/config/initializers/wrap_parameters.rb
+END

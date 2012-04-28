@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/tama/!svn/ver/3/test/unit
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tama/!svn/ver/3/test/unit/user_test.rb
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/tama/!svn/ver/3/test/unit/.gitkeep
+END

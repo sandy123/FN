@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tama/!svn/ver/3/app/views/devise/registrations
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tama/!svn/ver/3/app/views/devise/registrations/edit.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tama/!svn/ver/3/app/views/devise/registrations/new.html.erb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/tama/!svn/ver/3/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tama/!svn/ver/3/test/fixtures/users.yml
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tama/!svn/ver/3/test/fixtures/.gitkeep
+END

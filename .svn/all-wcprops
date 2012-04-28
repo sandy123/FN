@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/tama/!svn/ver/0/
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/tama/!svn/ver/3/Gemfile.lock
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/tama/!svn/ver/3/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/tama/!svn/ver/3/README.rdoc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/tama/!svn/ver/3/.gitignore
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/tama/!svn/ver/3/Gemfile
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/tama/!svn/ver/3/config.ru
+END
